@@ -1,0 +1,24 @@
+{
+  "name": "Ameen's Vibes Hub",
+  "short_name": "Vibes Hub",
+  "description": "Ameen's personal anime tracker, chess trainer, and AI hub",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0a0a0f",
+  "theme_color": "#b8860b",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/ameen381/ameen-vibes-hub/main/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/ameen381/ameen-vibes-hub/main/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
